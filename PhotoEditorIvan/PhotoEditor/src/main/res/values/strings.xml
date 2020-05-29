@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PhotoEditorIvan</string>
+
+    <string name="floating_menu_close">Cerrar</string>
+    <string name="floating_menu_camera">Cámara</string>
+    <string name="floating_menu_gallery">Galería</string>
+
+    <string name="popup_menu_delete">Eliminar Imagen</string>
+    <string name="popup_menu_gray">RGB a Gris</string>
+    <string name="popup_menu_hsv">RGB a HSV</string>
+    <string name="popup_menu_lab">RGB a LAB</string>
+    <string name="popup_menu_hls">RGB a HSL</string>
+</resources>

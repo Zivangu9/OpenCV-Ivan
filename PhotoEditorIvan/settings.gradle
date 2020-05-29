@@ -1,0 +1,3 @@
+rootProject.name='PhotoEditorIvan'
+include ':PhotoEditor'
+include ':openCVLibrary349'

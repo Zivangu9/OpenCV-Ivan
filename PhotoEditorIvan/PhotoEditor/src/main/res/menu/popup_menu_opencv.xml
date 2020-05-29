@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/popup_menu_delete_item"
+        android:title="@string/popup_menu_delete" />
+    <item android:id="@+id/popup_menu_gray_item"
+        android:title="@string/popup_menu_gray" />
+    <item android:id="@+id/popup_menu_hsv_item"
+        android:title="@string/popup_menu_hsv" />
+    <item android:id="@+id/popup_menu_lab_item"
+        android:title="@string/popup_menu_lab" />
+    <item android:id="@+id/popup_menu_hls_item"
+        android:title="@string/popup_menu_hls" />
+</menu>
